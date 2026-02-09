@@ -1,0 +1,16 @@
+{
+  "urls": [
+    {
+      "url": "",
+      "name": "sn多仓"
+    }，
+    {
+      "url": "https://d.kstore.dev/download/10163/xx/sn.json",
+      "name": "sn主接口"
+    }，
+    {
+      "url": "https://gitee.com/snai9/xx/raw/master/sn.json",
+      "name": "sn备用接口"
+    }
+  ]
+}
